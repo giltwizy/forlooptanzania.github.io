@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Gilton Bosco (Male)
 
-Fun fact: My web browser is vim-based.
+Fun fact: I don't watch football.
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [giltwizy@gmail.com](mailto:giltwizy@gmail.com)
+- GitHub [Gilton Bosco](https://github.com/giltwizy)
+- Twitter [@giltwizy](https://twitter.com/giltwizy)
